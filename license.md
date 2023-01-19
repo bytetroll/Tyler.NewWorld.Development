@@ -1,0 +1,1 @@
+Copyright (C) 2023 Tyler Technologies, Inc.  All rights reserved.
