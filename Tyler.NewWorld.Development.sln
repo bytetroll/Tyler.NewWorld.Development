@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyler.NewWorld.Development", "Tyler.NewWorld.Development\Tyler.NewWorld.Development.csproj", "{8870AF3E-006E-41E5-84B1-2C86CF3A5D7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyler.NewWorld.Development.Test", "Tyler.NewWorld.Development.Test\Tyler.NewWorld.Development.Test.csproj", "{7619D4EA-F2DF-4ED5-B41C-FC230F54F632}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{8870AF3E-006E-41E5-84B1-2C86CF3A5D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8870AF3E-006E-41E5-84B1-2C86CF3A5D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8870AF3E-006E-41E5-84B1-2C86CF3A5D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7619D4EA-F2DF-4ED5-B41C-FC230F54F632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7619D4EA-F2DF-4ED5-B41C-FC230F54F632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7619D4EA-F2DF-4ED5-B41C-FC230F54F632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7619D4EA-F2DF-4ED5-B41C-FC230F54F632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
